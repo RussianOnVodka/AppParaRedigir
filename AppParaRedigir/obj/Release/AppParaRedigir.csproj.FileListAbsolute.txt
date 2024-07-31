@@ -1,0 +1,14 @@
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Release\AppParaRedigir.exe.config
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Release\AppParaRedigir.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Release\AppParaRedigir.pdb
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.csprojResolveAssemblyReference.cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.Form1.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.Properties.Resources.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.csproj.GenerateResource.Cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.pdb
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Release\AppParaRedigir.exe.manifest
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Release\AppParaRedigir.application
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.TrustInfo.xml
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.exe.manifest
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Release\AppParaRedigir.application

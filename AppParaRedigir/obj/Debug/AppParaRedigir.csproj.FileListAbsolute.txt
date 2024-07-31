@@ -1,0 +1,9 @@
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Debug\AppParaRedigir.exe.config
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Debug\AppParaRedigir.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\bin\Debug\AppParaRedigir.pdb
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.csprojResolveAssemblyReference.cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.Form1.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.Properties.Resources.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.csproj.GenerateResource.Cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\AppParaRedigir\AppParaRedigir\obj\Debug\AppParaRedigir.pdb
